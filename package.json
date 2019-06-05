@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/covertcj/prettier-config/issues"
   },
-  "homepage": "https://github.com/covertcj/prettier-config#readme"
+  "homepage": "https://github.com/covertcj/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^1.0.0"
+  }
 }
