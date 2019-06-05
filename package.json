@@ -1,0 +1,17 @@
+{
+  "name": "@covertcj/prettier-config",
+  "version": "0.1.0",
+  "description": "My prettier config",
+  "main": "prettier.json",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/covertcj/prettier-config.git"
+  },
+  "author": "Christopher J. Covert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/covertcj/prettier-config/issues"
+  },
+  "homepage": "https://github.com/covertcj/prettier-config#readme"
+}
